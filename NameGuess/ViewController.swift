@@ -15,5 +15,9 @@ class ViewController: UIViewController {
     }
 
 
+    func addedNewfunc() {
+        print("Added this to test version control")
+    }
+    
 }
 
